@@ -1,1 +1,13 @@
 in this project I will deconstruct and rebuild an existing webpage 
+<!DOCTYPE html>
+<html>
+<h1> 
+<img src= "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+</h1>
+<h2> 
+<div class= "searchbox">
+<input type= "text" name= "" class= "searchbox">
+<a class= "searchbox" href= "#">
+</a>
+</div>
+<h3> 
